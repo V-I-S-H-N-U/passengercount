@@ -1,0 +1,2 @@
+- A simple website for counting the Rows using js,html and css.
+- It also shows previous saved count.
